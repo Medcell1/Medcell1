@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m Med
-- 🌱 I build android applications with flutter
-- 👯 I’m looking forward to collaborate on any projects
+- 🌱 Flutter/Javascript dev.
 - 📲 How to reach me: adeolasoremi5@gmail.com -->
 ###
